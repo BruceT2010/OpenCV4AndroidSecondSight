@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplyEffects</string>
+    <string name="menu_next_curve_filter">Next Curve</string>
+    <string name="menu_next_mixer_filter">Next Mixer</string>
+    <string name="menu_next_convolution_filter">Next Kernel</string>
+</resources>

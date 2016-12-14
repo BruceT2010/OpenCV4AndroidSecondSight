@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraFrame</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="menu_next_camera">Next Cam</string>
+    <string name="menu_take_photo">Take Photo</string>
+    <string name="menu_image_size">Size</string>
+    <string name="photo_delete_prompt_message">This photo is saved in your Gallery. Do you want to delete it?</string>
+    <string name="photo_delete_prompt_title">Delete photo?</string>
+    <string name="photo_error_message">Failed to save photo</string>
+    <string name="photo_edit_chooser_title">Edit photo with&#8230;</string>
+    <string name="photo_send_chooser_title">Share photo with&#8230;</string>
+    <string name="photo_send_extra_subject">My photo from Second Sight</string>
+    <string name="photo_send_extra_text">Check out my photo from the Second Sight app! http://nummist.com/opencv/</string>
+    <string name="share">Share</string>
+</resources>

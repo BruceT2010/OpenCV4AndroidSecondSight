@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_delete"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/delete" />
+    <item
+        android:id="@+id/menu_edit"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/edit" />
+    <item
+        android:id="@+id/menu_share"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/share" />
+</menu>
